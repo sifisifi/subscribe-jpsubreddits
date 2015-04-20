@@ -1,0 +1,6 @@
+*.swp
+core
+.cabal-sandbox/
+dist/
+cabal.sandbox.config
+subscribe-jpsubreddits.js
